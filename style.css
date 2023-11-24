@@ -5,3 +5,7 @@ footer {
   background-color: #45a1ff;
   color: #fff;
 }
+.bg-border
+{
+  bg-color: grey;
+}
